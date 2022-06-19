@@ -18,7 +18,7 @@
 <a href="https://youtube.com/channel/UCwjazfLM75zJuna6ADLAEdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thedev" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/suresh1234567" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suresh1234567" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sureshpradhana19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sureshpradhana19" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/gh4SaCrFQS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gh4SaCrFQS" height="30" width="40" /></a>
+<a href="https://discord.gg/gh4SaCrFQS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gh4SaCrFQS" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
