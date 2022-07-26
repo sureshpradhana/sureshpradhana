@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.codewars.com/users/sureshpradhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codewars.svg" alt="codewars" height="30" width="40" /></a>
 <a href="https://codepen.io/codebrakerk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codebrakerk" height="30" width="40" /></a>
 <a href="https://twitter.com/suresh_pradhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suresh_pradhana" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/suresh-pradhana-b322851bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suresh pradhana" height="30" width="40" /></a>
