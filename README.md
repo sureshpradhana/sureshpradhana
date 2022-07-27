@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshpradhana&label=Profile%20views&color=0e75b6&style=flat" alt="sureshpradhana" /> </p>
 
-- 🔭 I’m currently working on Mymovielist
-
-- 🌱 I’m currently learning Aws
-
 - 📫 How to reach me sureshpradhana19@gmail.com
 
 <h3 align="left">Connect with me:</h3>
